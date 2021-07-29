@@ -19,9 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 
 - Run ```flutter doctor``` to see environment setup.
 - Currently uses java jdk 16.0.2 and gradle 7.1 to run
-- set paths for java (set JAVA HOME to java jdk path, add java jdk/bin to path)
+- set paths for java (set JAVA_HOME in User Variables to path (i.e. C:\Program Files\Java\jdk-16.0.2), add C:\Program Files\Java\jdk-16.0.2\bin to User variables path)
 - Run command flutter config --android-studio-dir "C:\Program Files\Android\Android Studio" to set Android Studio path
-- Run command flutter config --android-sdk "C:\Users\<username>\AppData\Local\Android\Sdk" to add sdk
+- Run command flutter config --android-sdk "C:\Users\\\<username>\AppData\Local\Android\Sdk" to add sdk
 - Run flutter doctor --android-licenses to get android licenses
 
 ## Images Folder
