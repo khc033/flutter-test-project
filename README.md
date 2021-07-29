@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Flutter Things to Do:
 
-- Run ```bash flutter doctor``` to see environment setup.
+- Run ```flutter doctor``` to see environment setup.
 - Currently uses java jdk 16.0.2 and gradle 7.1 to run
 - set paths for java (set JAVA HOME to java jdk path, add java jdk/bin to path)
 - Run command flutter config --android-studio-dir "C:\Program Files\Android\Android Studio" to set Android Studio path
