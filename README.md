@@ -29,3 +29,8 @@ samples, guidance on mobile development, and a full API reference.
 There is an image file used called [lake.jpg](https://images.unsplash.com/photo-1471115853179-bb1d604434e0?dpr=1&auto=format&fit=crop&w=767&h=583&q=80&cs=tinysrgb&crop=)
  stored in images folder.
 
+## Debugging
+
+- If the app doesn't run, you can run ```flutter run -v``` to see output logs of runtime.
+- If the app has deprecated packages, you can run ```flutter run --no-sound-null-safety``` to run without null safety.
+
