@@ -23,6 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 - Run command flutter config --android-studio-dir "C:\Program Files\Android\Android Studio" to set Android Studio path
 - Run command flutter config --android-sdk "C:\Users\\\<username>\AppData\Local\Android\Sdk" to add sdk
 - Run flutter doctor --android-licenses to get android licenses
+- Run program using ```flutter run --no-sound-null-safety``` because of mixed/deprecated packages.
 
 ## Images Folder
 
